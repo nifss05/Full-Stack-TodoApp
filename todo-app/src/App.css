@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  padding: 20px;
+   background-color: rgb(61, 60, 60);
+
+}
+
+.footer{
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  height:40px;
+  color: black;
+  background-color: rgb(182, 182, 182);
+}
+
+
+

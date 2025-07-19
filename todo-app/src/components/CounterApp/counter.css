@@ -1,0 +1,28 @@
+button{
+    font-size: 16px;
+    width: 100px;
+   
+    padding: 20px;
+    margin: 15px;
+    border-radius: 30px;
+    border-color: rgb(61, 61, 62);
+    border-width: 3px;
+}
+
+.Button1{
+     background-color: rgb(103, 141, 247);
+   
+}
+.RButton{
+     background-color: rgb(255, 182, 80);
+}
+
+.count{
+    font-size: 20px;
+    padding: 20px;
+}
+.Mcount{
+    color: rgb(203, 255, 134);
+    font-size: 150px;
+    padding: 20px;
+}
